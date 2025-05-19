@@ -35,18 +35,17 @@ Follow these steps to get started:
 
 ⚠️ Important Notes
 
-📱 Phone numbers must include the country code (e.g., +1234567890)
+📱 Phone numbers must include the country code (e.g., +911234567890)
 🌐 You need to be logged into WhatsApp Web in your browser
 🗂️ The extension opens a new tab for each message
 🛑 Stop the process anytime by clicking Stop Sending
 📜 Use this tool responsibly and comply with WhatsApp's Terms of Service
 
 
-🖼️ Adding a Screenshot
-To make your README visually appealing, add a screenshot or logo:
+🖼️ Screenshot
 
-Place your image in the repository (e.g., images/screenshot.png)
-Update the image URL in this README:![WhatsApp Bulk Messenger](images/screenshot.png)
+
+
 
 
 Commit and push the changes to GitHub
@@ -66,6 +65,7 @@ We welcome contributions! 🙌
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 📧 Contact
-Have questions or suggestions? Reach out!📧 Email: your.email@example.com🌐 GitHub: YourGitHubUsername
+Have questions or suggestions? 
+Reach out!📧 Email: ambristech@gmail.com.🌐 GitHub: ambristech
 
 Built with ❤️ for efficient communication!
